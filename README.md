@@ -119,3 +119,4 @@ http-server -p 8000
 ```
 然後在瀏覽器中開啟：`http://localhost:8000`
 
+![image]()
