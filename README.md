@@ -107,16 +107,4 @@ python -m http.server 8000
 ```
 然後在瀏覽器中開啟：`http://localhost:8000`
 
-### 3. 使用 Node.js 伺服器
-```bash
-# 安裝 Node.js（如果尚未安裝）
-# 安裝 http-server
-npm install -g http-server
-
-# 開啟命令提示字元或 PowerShell
-cd 專案目錄
-http-server -p 8000
-```
-然後在瀏覽器中開啟：`http://localhost:8000`
-
 [![image](https://github.com/jebylinjbjob/C-to-VS2022-code-Snippets/blob/main/image.png)]
