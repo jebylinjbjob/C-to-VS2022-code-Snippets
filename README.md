@@ -119,4 +119,4 @@ http-server -p 8000
 ```
 然後在瀏覽器中開啟：`http://localhost:8000`
 
-![image]()
+[![image](https://github.com/jebylinjbjob/C-to-VS2022-code-Snippets/blob/main/image.png)]
